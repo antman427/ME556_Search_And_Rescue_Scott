@@ -63,5 +63,7 @@ Ergodic control gives you a principled way to think about coverage that beats re
 
 ## REFERENCES
 [1] G. Mathew and I. Mezić, "Metrics for ergodicity and design of ergodic dynamics for multi-agent systems," Physica D: Nonlinear Phenomena, vol. 240, no. 4-5, pp. 432–442, 2011.
+
 [2] G. Mathew and I. Mezić, "Spectral multiscale coverage: A uniform coverage algorithm for mobile sensor networks," in Proc. 48th IEEE Conf. Decision and Control, pp. 7872–7877, 2009.
+
 [3] L. M. Miller, Y. Silverman, M. A. MacIver, and T. D. Murphey, "Ergodic exploration of distributed information," IEEE Trans. Robotics, vol. 32, no. 1, pp. 36–52, 2016.
